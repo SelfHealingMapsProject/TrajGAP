@@ -1,0 +1,9 @@
+name: trajEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - ipython
+  - ipykernel
