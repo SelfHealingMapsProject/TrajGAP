@@ -1,8 +1,8 @@
-Knowledge from Incomplete Trajectories: Navigation systems do not cater for familiar wayfinders
+# Knowledge from Incomplete Trajectories: Navigation systems do not cater for familiar wayfinders
 
 Companion demonstration code to the paper.
 
-This code requires Numpy and Pandas, and iPython (jupyter), tested with versions {Numpy:1.20.2,Pandas:1.2.4} on OSX with Python 3.9.2 (But should work with any Python 3.7+). The attached conda environment trajEnv.yml is provided for those using Anaconda.
+This code requires Numpy and Pandas, and iPython (jupyter) to run the notebook, tested with versions {Numpy:1.20.2,Pandas:1.2.4} on OSX with Python 3.9.2 (But should work with any Python 3.7+). The attached conda environment trajEnv.yml is provided for those using Anaconda.
 
 You can recreate the environment by issuing the following bash command, issued from within the directory with the following structure:
 
